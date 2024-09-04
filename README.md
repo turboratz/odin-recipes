@@ -1,0 +1,2 @@
+This repo is a practice exercise in building a website under the curriculum of The Odin Project.
+In this repo, I will make a website for famous Filipino dishes that are loved by every household in the Philippines.
